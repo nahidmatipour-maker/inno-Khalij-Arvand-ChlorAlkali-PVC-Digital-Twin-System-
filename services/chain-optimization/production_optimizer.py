@@ -22,3 +22,4 @@ def optimize_production(cell_health, fouling_risk, electricity_tariff):
 if __name__ == "__main__":
     result = optimize_production(cell_health=85, fouling_risk=30, electricity_tariff=0.12)
     print(result)
+    # نسخه اولیه بهینه‌ساز
